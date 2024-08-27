@@ -14,12 +14,13 @@
     align-items: center;
     min-height: 100vh;
   }
-  
-  background-color: var(--cor-principal);
-  width: 90%;
-  text-align: center;
-  padding: 20px;
-}
-h1{
- color: var(--cor-destaque);
-}
+
+  .caixa-principal{
+    background-color: var(--cor-principal);
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+  }
+  h1{
+   color: var(--cor-destaque);
+  }
